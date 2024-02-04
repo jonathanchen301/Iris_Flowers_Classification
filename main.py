@@ -1,6 +1,2 @@
-import sys
-import scipy
-import numpy
-import matplotlib
-import pandas
-import sklearn
+if __name__ == "__main__":
+    run()
