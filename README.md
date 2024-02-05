@@ -27,14 +27,4 @@ Based on this [tutorial](https://machinelearningmastery.com/machine-learning-in-
 
 Accuracy: 0.9666666666666667
 
-Classification report:
-
-                 precision    recall  f1-score   support
-
-    Iris-setosa       1.00      1.00      1.00        11
-Iris-versicolor       1.00      0.92      0.96        13
- Iris-virginica       0.86      1.00      0.92         6
-
-       accuracy                           0.97        30
-      macro avg       0.95      0.97      0.96        30
-   weighted avg       0.97      0.97      0.97        30
+Classification report and confusion matrix in the Jupyter Notebook.
